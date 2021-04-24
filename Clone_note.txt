@@ -1,0 +1,5 @@
+I just created an empty remote repository from GitHub.com account but hitting the  + button by the bell button
+
+and Cloned this repository by clicking on Set up Desktop which is the GitHub Desktop.
+
+Made sure that the folder selected was the one I wanted this to go into and hit Clone.
